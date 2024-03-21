@@ -1,0 +1,34 @@
+[
+  {
+    "title": "Cloud Gallery",
+    "imageSrc": "projects/project.png",
+    "description": "Cloud Gallery is a cloud storage application similar to Google Photos, enabling users to store and manage their image collections.",
+    "skills": ["React", "Tailwind", "Firebase"],
+    "demo": "https://cloudgallery-nilesh.netlify.app/", 
+    "source": "https://github.com/nilesh0863/Cloud-Gallery"
+  },
+  {
+    "title": "Foody Zone",
+    "imageSrc": "projects/project.png",
+    "description": "Foody Zone is a website where users can explore a variety of food options and food data fetches from backend",
+    "skills": ["React", "Express", "Node"],
+    "demo": "https://foodyzone-nilesh.netlify.app",
+    "source": "https://github.com/nilesh0863/Foody-Zone"
+  },
+  {
+    "title": "Personal Portfolio",
+    "imageSrc": "projects/project.png",
+    "description": "This is a personal portfolio crafted with React, serving as a platform for both learning and showcasing my skills",
+    "skills": ["HTML", "CSS", "JavaScript", "React Js"],
+    "demo": "#home",
+    "source": "https://github.com/nilesh0863/Algorithm-visualizer"
+  },
+  {
+    "title": "Algorithm Visualizer",
+    "imageSrc": "projects/project.png",
+    "description": "The Algorithm Visualizer project is an exciting and educational platform that uses interactive visualizations to showcase how algorithms work.",
+    "skills": ["HTML", "CSS", "JavaScript"],
+    "demo": "#",
+    "source": "https://github.com/nilesh0863/Algorithm-visualizer"
+  }
+]

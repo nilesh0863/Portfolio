@@ -1,0 +1,11 @@
+:root {
+    /* Colours */
+    --color-text: black;
+    --color-btn: #576cbc; /* btn color */
+    --color-secondary: #19376d;
+    --color-projectBg: rgb(196, 217, 237);
+    --color-projectSkill: rgba(1, 1, 80, 0.479);
+  
+    /* Fonts */
+    --font-roboto: "Roboto";
+}

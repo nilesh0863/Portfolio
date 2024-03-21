@@ -1,0 +1,11 @@
+@import "./vars.css";
+
+.App {
+  /* background-color: v; */
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  /* background-color: rgb(153, 195, 231); */
+  background-color: rgb(178, 211, 243);
+  /* max-width: 1800px; */
+}

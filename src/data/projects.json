@@ -30,5 +30,13 @@
     "skills": ["HTML", "CSS", "JavaScript"],
     "demo": "#",
     "source": "https://github.com/nilesh0863/Algorithm-visualizer"
+  },
+  {
+    "title": "Algorithm Visualizer",
+    "imageSrc": "projects/project.png",
+    "description": "The Algorithm Visualizer project is an exciting and educational platform that uses interactive visualizations to showcase how algorithms work.",
+    "skills": ["HTML", "CSS", "JavaScript"],
+    "demo": "#",
+    "source": "https://github.com/nilesh0863/Algorithm-visualizer"
   }
 ]
